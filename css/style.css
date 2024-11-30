@@ -50,6 +50,12 @@ main {
   padding: 0 20px;
 }
 
+aside {
+  border: 1px solid rgba(192, 160, 96, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
 section {
   margin-bottom: 48px;
   padding: 1.5rem;

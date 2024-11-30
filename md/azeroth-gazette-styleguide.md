@@ -2,13 +2,13 @@
 
 ## Paleta de Colores
 
-### Colores Principales
+### Colores Principales - DONE
 
 - **Dorado Principal:** #C0A060 (para títulos y acentos)
 - **Azul Oscuro:** #1A2C4E (color base para textos)
 - **Crema:** #F5E6D3 (fondo principal)
 
-### Colores Secundarios
+### Colores Secundarios - DONE
 
 - **Rojo Horda:** #8C1616
 - **Azul Alianza:** #1A3C8C
@@ -16,7 +16,7 @@
 
 ## Tipografía
 
-### Fuentes
+### Fuentes - DONE
 
 1. **Títulos:**
 
