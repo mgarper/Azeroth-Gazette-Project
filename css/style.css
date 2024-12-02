@@ -1,4 +1,8 @@
 /* ELEMENTOS */
+html {
+  background-color: #f5e6d3;
+}
+
 h1 {
   font-size: 40px;
   font-family: "Georgia", "Garamond", serif;
@@ -30,9 +34,17 @@ img {
   transition: 0.3s ease-in-out;
 }
 
+img:hover {
+  transform: scale(1.02);
+}
+
 a {
   color: #1a3c8c;
   transition: 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #c0a060;
 }
 
 header,
@@ -56,7 +68,8 @@ aside {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
-section {
+section,
+.section {
   margin-bottom: 48px;
   padding: 1.5rem;
 }
@@ -70,6 +83,7 @@ p {
 }
 
 /* CLASES DE COMPONENTE */
+
 .card {
   padding: 1.25rem;
   background: #ffffff;
@@ -78,11 +92,12 @@ p {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
-/* CLASES DE UTILIDAD */
 .container {
   display: flex;
   margin: 0 auto;
 }
+
+/* CLASES DE UTILIDAD */
 
 .font-body {
   font-family: "Arial", "Verdana", sans-serif;
@@ -113,11 +128,6 @@ p {
   color: #1a3c8c;
 }
 
-/* colores de fondo */
-.bg-cream {
-  background-color: #f5e6d3;
-}
-
-.bg-red {
-  background-color: #8c1616;
+.color-red {
+  color: #8c1616;
 }

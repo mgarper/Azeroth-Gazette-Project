@@ -59,14 +59,14 @@
 - Texto en dorado (#C0A060)
 - Sombra de texto: text-shadow: 2px 2px 4px rgba(0,0,0,0.5)
 
-### Enlaces
+### Enlaces - DONE
 
 - **Color Normal:** #1A3C8C
 - **Hover:** #C0A060
 - **Transición:** 0.3s ease-in-out
 - **Subrayado:** none (aparece en hover)
 
-### Imágenes
+### Imágenes - DONE
 
 - **Border-radius:** 4px
 - **Sombra:** box-shadow: 0 4px 8px rgba(0,0,0,0.1)
