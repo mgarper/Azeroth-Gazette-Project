@@ -47,8 +47,7 @@ a:hover {
   color: #c0a060;
 }
 
-header,
-.header {
+.sideblock {
   padding: 2rem 0;
   background: linear-gradient(45deg, #1a2c4e, #2a3c5e);
   color: #c0a060;
